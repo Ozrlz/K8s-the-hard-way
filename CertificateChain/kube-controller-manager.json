@@ -1,0 +1,16 @@
+ {
+  "CN": "system:kube-controller-manager",
+  "key": {
+	"algo": "rsa",
+	"size": 2048
+   },
+   "names": [
+	{
+	  "C": "MX",
+	  "L": "Guadalajara",
+          "O": "system:kube-controller-manager",
+          "OU": "Kubernetes THe Hard Way",
+          "ST": "Jalisco"
+        }
+      ]
+   }
